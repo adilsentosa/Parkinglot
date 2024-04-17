@@ -1,0 +1,16 @@
+D:\enigma\parking-app\ParkingApp\bin\Debug\net5.0\ParkingApp.exe
+D:\enigma\parking-app\ParkingApp\bin\Debug\net5.0\ParkingApp.deps.json
+D:\enigma\parking-app\ParkingApp\bin\Debug\net5.0\ParkingApp.runtimeconfig.json
+D:\enigma\parking-app\ParkingApp\bin\Debug\net5.0\ParkingApp.runtimeconfig.dev.json
+D:\enigma\parking-app\ParkingApp\bin\Debug\net5.0\ParkingApp.dll
+D:\enigma\parking-app\ParkingApp\bin\Debug\net5.0\ref\ParkingApp.dll
+D:\enigma\parking-app\ParkingApp\bin\Debug\net5.0\ParkingApp.pdb
+D:\enigma\parking-app\ParkingApp\obj\Debug\net5.0\ParkingApp.csproj.AssemblyReference.cache
+D:\enigma\parking-app\ParkingApp\obj\Debug\net5.0\ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\enigma\parking-app\ParkingApp\obj\Debug\net5.0\ParkingApp.AssemblyInfoInputs.cache
+D:\enigma\parking-app\ParkingApp\obj\Debug\net5.0\ParkingApp.AssemblyInfo.cs
+D:\enigma\parking-app\ParkingApp\obj\Debug\net5.0\ParkingApp.csproj.CoreCompileInputs.cache
+D:\enigma\parking-app\ParkingApp\obj\Debug\net5.0\ParkingApp.dll
+D:\enigma\parking-app\ParkingApp\obj\Debug\net5.0\ref\ParkingApp.dll
+D:\enigma\parking-app\ParkingApp\obj\Debug\net5.0\ParkingApp.pdb
+D:\enigma\parking-app\ParkingApp\obj\Debug\net5.0\ParkingApp.genruntimeconfig.cache
